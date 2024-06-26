@@ -1,5 +1,5 @@
 import unittest
-import main from find_max_sum_sub_arra
+from main import find_max_sum_sub_array
 
 class TestFindMaxSumSubArray(unittest.TestCase):
 

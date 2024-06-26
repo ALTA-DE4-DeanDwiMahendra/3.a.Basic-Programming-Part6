@@ -1,6 +1,5 @@
 import unittest
-
-import main from array_unique
+from main import array_unique
 
 class TestArrayUniqueFunction(unittest.TestCase):
 
